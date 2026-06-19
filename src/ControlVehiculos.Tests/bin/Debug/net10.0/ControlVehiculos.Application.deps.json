@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ControlVehiculos.Application/1.0.0": {
+        "dependencies": {
+          "ControlVehiculos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ControlVehiculos.Application.dll": {}
+        }
+      },
+      "ControlVehiculos.Domain/1.0.0": {
+        "runtime": {
+          "ControlVehiculos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlVehiculos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlVehiculos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

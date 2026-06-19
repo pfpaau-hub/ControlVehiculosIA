@@ -1,0 +1,26 @@
+TABLE_NAME,COLUMN_NAME,ORDINAL_POSITION
+----------,-----------,----------------
+__EFMigrationsHistory,MigrationId,1
+bodega,IdBodega,1
+Cliente,IdCliente,1
+Color,IdColor,1
+Empleado,IdTblEmpleado,1
+Empresa,IdEmpresa,1
+Linea,IdLinea,1
+Marca,IdMarcaVehiculo,1
+Mecanico,IdMecanico,1
+OrdenServicio,IdOrdenServicio,1
+OrdenServicioDetalle,IdOrdenServicioDetalle,1
+OrdenServicioDetalleIntegracion,IdOrdenServicioDetalleIntegracion,1
+OrdenServicioEstado,IdOrdenServicioEstado,1
+Presupuesto,IdPresupuesto,1
+PresupuestoDetalle,IdPresupuestoDetalle,1
+Producto,IdProducto,1
+Servicio,IdServicio,1
+ServicioProducto,IdServicioProducto,1
+sysdiagrams,diagram_id,1
+TblUsuario,IdTblUsuario,1
+TipoVehiculo,IdTipoVehiculo,1
+Vehiculo,IdVehiculo,1
+
+(22 rows affected)

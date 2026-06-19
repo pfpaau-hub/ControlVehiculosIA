@@ -1,0 +1,6 @@
+{
+  "ControlVehiculos.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/geovanny\/Documents\/Paau\/ControlVehiculosIA-main\/src\/ControlVehiculos.API",
+  "ControlVehiculos.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/geovanny\/Documents\/Paau\/ControlVehiculosIA-main\/src\/ControlVehiculos.Application",
+  "ControlVehiculos.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/geovanny\/Documents\/Paau\/ControlVehiculosIA-main\/src\/ControlVehiculos.Domain",
+  "ControlVehiculos.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/geovanny\/Documents\/Paau\/ControlVehiculosIA-main\/src\/ControlVehiculos.Infrastructure"
+}

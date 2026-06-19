@@ -1,0 +1,24 @@
+FK_NAME,PARENT_TABLE,PARENT_COLUMN,REFERENCED_TABLE,REFERENCED_COLUMN,delete_referential_action_desc,update_referential_action_desc
+-------,------------,-------------,----------------,-----------------,------------------------------,------------------------------
+FK_bodega_Empresa_EmpresaIdEmpresa,bodega,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_Color_Empresa_EmpresaIdEmpresa,Color,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_Linea_Marca,Linea,IdMarcaVehiculo,Marca,IdMarcaVehiculo,CASCADE,NO_ACTION
+FK_Marca_Empresa_EmpresaIdEmpresa,Marca,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_Empleado_Empresa_EmpresaIdEmpresa,Mecanico,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_OrdenServicio_Cliente,OrdenServicio,IdCliente,Cliente,IdCliente,NO_ACTION,NO_ACTION
+FK_OrdenServicio_Empresa_EmpresaIdEmpresa,OrdenServicio,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_OrdenServicio_OrdenServicioEstado,OrdenServicio,EstatusOrdenServicio,OrdenServicioEstado,IdOrdenServicioEstado,NO_ACTION,NO_ACTION
+FK_OrdenServicioDetalle_Mecanico,OrdenServicioDetalle,IdMecanico,Mecanico,IdMecanico,NO_ACTION,NO_ACTION
+FK_OrdenServicioDetalle_OrdenServicio_OrdenServicioIdOrdenServicio,OrdenServicioDetalle,OrdenServicioIdOrdenServicio,OrdenServicio,IdOrdenServicio,CASCADE,NO_ACTION
+FK_OrdenServicioDetalle_Servicio,OrdenServicioDetalle,IdServicio,Servicio,IdServicio,NO_ACTION,NO_ACTION
+FK_OrdenServicioDetalleIntegracion_OrdenServicioDetalle_OrdenServicioDetalleIdOrdenServicioDetalle,OrdenServicioDetalleIntegracion,OrdenServicioDetalleIdOrdenServicioDetalle,OrdenServicioDetalle,IdOrdenServicioDetalle,CASCADE,NO_ACTION
+FK_Presupuesto_Vehiculo,Presupuesto,IdVehiculo,Vehiculo,IdVehiculo,NO_ACTION,NO_ACTION
+FK_PresupuestoDetalle_Presupuesto,PresupuestoDetalle,IdPresupuesto,Presupuesto,IdPresupuesto,NO_ACTION,NO_ACTION
+FK_Producto_Empresa_EmpresaIdEmpresa,Producto,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_Servicio_Empresa_EmpresaIdEmpresa,Servicio,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_ServicioProducto_Producto_ProductoIdProducto,ServicioProducto,ProductoIdProducto,Producto,IdProducto,NO_ACTION,NO_ACTION
+FK_ServicioProducto_Servicio_ServicioIdServicio,ServicioProducto,ServicioIdServicio,Servicio,IdServicio,CASCADE,NO_ACTION
+FK_Vehiculo_Empresa_EmpresaIdEmpresa,Vehiculo,EmpresaIdEmpresa,Empresa,IdEmpresa,CASCADE,NO_ACTION
+FK_Vehiculo_TipoVehiculo_TipoVehiculoIdTipoVehiculo,Vehiculo,TipoVehiculoIdTipoVehiculo,TipoVehiculo,IdTipoVehiculo,CASCADE,NO_ACTION
+
+(20 rows affected)

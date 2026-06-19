@@ -1,0 +1,11 @@
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/bin/Debug/net8.0/ControlVehiculos.Domain.deps.json
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/bin/Debug/net8.0/ControlVehiculos.Domain.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/bin/Debug/net8.0/ControlVehiculos.Domain.pdb
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ControlVehiculos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ControlVehiculos.Domain.AssemblyInfoInputs.cache
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ControlVehiculos.Domain.AssemblyInfo.cs
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ControlVehiculos.Domain.csproj.CoreCompileInputs.cache
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ControlVehiculos.Domain.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/refint/ControlVehiculos.Domain.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ControlVehiculos.Domain.pdb
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Domain/obj/Debug/net8.0/ref/ControlVehiculos.Domain.dll

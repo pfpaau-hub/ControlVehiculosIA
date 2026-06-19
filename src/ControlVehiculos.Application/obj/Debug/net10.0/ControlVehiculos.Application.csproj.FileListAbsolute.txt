@@ -1,0 +1,15 @@
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/bin/Debug/net10.0/ControlVehiculos.Application.deps.json
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/bin/Debug/net10.0/ControlVehiculos.Application.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/bin/Debug/net10.0/ControlVehiculos.Application.pdb
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/bin/Debug/net10.0/ControlVehiculos.Domain.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/bin/Debug/net10.0/ControlVehiculos.Domain.pdb
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.csproj.AssemblyReference.cache
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.AssemblyInfoInputs.cache
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.AssemblyInfo.cs
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.csproj.CoreCompileInputs.cache
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlV.98B9DD45.Up2Date
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/refint/ControlVehiculos.Application.dll
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ControlVehiculos.Application.pdb
+/home/geovanny/Documents/Paau/ControlVehiculosIA-main/src/ControlVehiculos.Application/obj/Debug/net10.0/ref/ControlVehiculos.Application.dll
